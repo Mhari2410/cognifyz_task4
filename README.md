@@ -32,7 +32,7 @@ The project aims to perform a comprehensive geographical analysis of restaurants
 
 ## Usage
 
-1. Run the Python script `Modified_Task-4.py` to execute the location-based analysis.
+1. Run the Python script to execute the location-based analysis.
 
 2. Follow the instructions provided in the script to explore the distribution of restaurants, analyze statistics, and identify insights.
 
